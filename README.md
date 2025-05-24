@@ -1,4 +1,4 @@
-# NoppyAddon-Meteor by thenoppy12 
-## (Discord: .thenoppy12)
+# NoppyAddon by thenoppy12 
+## (Discord: fkris.thenoppy12)
 
-only support 1.20.4 and will update as soon as i playing newer version .-.
+1.21.5!!!!!!!!!!!!!
